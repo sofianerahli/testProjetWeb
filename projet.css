@@ -1,0 +1,95 @@
+#e { color: red;
+	font-family: "bookman", serif;
+ }
+ #c { color: blue;
+ 	font-family: "bookman", serif;
+ }
+ #e1 {color: orange;
+ 	font-family: "bookman", serif;
+ }
+ #point { color: green;
+ 	font-family: "bookman", serif;
+ }
+ #a { color: red;
+ 	font-family: "bookman", serif;
+ }
+ #m { color: blue;
+ 	font-family: "bookman", serif;
+ }
+ #a1 { color: orange;
+ 	font-family: "bookman", serif;
+ }
+ #z { color: green;
+ 	font-family: "bookman", serif;
+ }
+ #o { color: red;
+ 	font-family: "bookman", serif;
+ }
+ #n { color: blue;
+ 	font-family: "bookman", serif;
+ }
+#ece { 
+position:absolute; bottom:660px; left:420px; 
+}
+#ece1{
+	font-family: "bookman", serif;
+	font-weight:bold;
+	font-size: 50px;
+} 
+#section{
+background-color: #cccccc;
+width: 100%;
+float: right;
+padding: 100%;
+height: auto;
+}
+#section2{
+background-color: #cccccc;
+width: 100%;
+float: right;
+padding: auto;
+height: auto;
+}
+#section3{
+background-color: #cccccc;
+width: 100%;
+float: right;
+padding: 100%;
+height: auto;
+}
+#section4{
+background-color: #cccccc;
+width: 100%;
+float: right;
+padding: 100%;
+height: auto;
+}
+#section5{
+background-color: #cccccc;
+width: 100%;
+float: right;
+padding: 100%;
+height: auto;
+}
+#section6{
+background-color: #cccccc;
+width: 100%;
+float: right;
+padding: 100%;
+height: auto;
+}
+#footer{
+background-color: black;
+color: white;
+clear: both;
+text-align: center;
+padding-top: 50%;
+}
+#nav{
+line-height: 30px;
+background-color: #eeeeee;
+height: 100%;
+width: 100%;
+float: left;
+padding: auto;
+}
